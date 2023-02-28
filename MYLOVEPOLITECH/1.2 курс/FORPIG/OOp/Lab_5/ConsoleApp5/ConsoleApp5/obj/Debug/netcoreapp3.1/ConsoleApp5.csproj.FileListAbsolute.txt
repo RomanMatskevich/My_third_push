@@ -1,0 +1,13 @@
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_5\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.exe
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_5\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.deps.json
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_5\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.runtimeconfig.json
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_5\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.runtimeconfig.dev.json
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_5\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.dll
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_5\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.pdb
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_5\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.AssemblyInfoInputs.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_5\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.AssemblyInfo.cs
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_5\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.csproj.CoreCompileInputs.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_5\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.dll
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_5\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.pdb
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_5\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.genruntimeconfig.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_5\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.csprojAssemblyReference.cache

@@ -1,0 +1,31 @@
+D:\DFiles\LP\3 Karzen\1 Rihtze\Interfaces\Interface Lab2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\DFiles\LP\3 Karzen\1 Rihtze\Interfaces\Interface Lab2\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\DFiles\LP\3 Karzen\1 Rihtze\Interfaces\Interface Lab2\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\DFiles\LP\3 Karzen\1 Rihtze\Interfaces\Interface Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+D:\DFiles\LP\3 Karzen\1 Rihtze\Interfaces\Interface Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.SuggestedBindingRedirects.cache
+D:\DFiles\LP\3 Karzen\1 Rihtze\Interfaces\Interface Lab2\Lab2\Lab2\obj\Debug\MainWindow.g.cs
+D:\DFiles\LP\3 Karzen\1 Rihtze\Interfaces\Interface Lab2\Lab2\Lab2\obj\Debug\App.g.cs
+D:\DFiles\LP\3 Karzen\1 Rihtze\Interfaces\Interface Lab2\Lab2\Lab2\obj\Debug\Lab2_MarkupCompile.cache
+D:\DFiles\LP\3 Karzen\1 Rihtze\Interfaces\Interface Lab2\Lab2\Lab2\obj\Debug\Lab2_MarkupCompile.lref
+D:\DFiles\LP\3 Karzen\1 Rihtze\Interfaces\Interface Lab2\Lab2\Lab2\obj\Debug\MainWindow.baml
+D:\DFiles\LP\3 Karzen\1 Rihtze\Interfaces\Interface Lab2\Lab2\Lab2\obj\Debug\Lab2.g.resources
+D:\DFiles\LP\3 Karzen\1 Rihtze\Interfaces\Interface Lab2\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\DFiles\LP\3 Karzen\1 Rihtze\Interfaces\Interface Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+D:\DFiles\LP\3 Karzen\1 Rihtze\Interfaces\Interface Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\DFiles\LP\3 Karzen\1 Rihtze\Interfaces\Interface Lab2\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\DFiles\LP\3 Karzen\1 Rihtze\Interfaces\Interface Lab2\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\Bot\Desktop\Interface Lab2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Bot\Desktop\Interface Lab2\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\Bot\Desktop\Interface Lab2\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Bot\Desktop\Interface Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+C:\Users\Bot\Desktop\Interface Lab2\Lab2\Lab2\obj\Debug\MainWindow.g.cs
+C:\Users\Bot\Desktop\Interface Lab2\Lab2\Lab2\obj\Debug\App.g.cs
+C:\Users\Bot\Desktop\Interface Lab2\Lab2\Lab2\obj\Debug\Lab2_MarkupCompile.cache
+C:\Users\Bot\Desktop\Interface Lab2\Lab2\Lab2\obj\Debug\Lab2_MarkupCompile.lref
+C:\Users\Bot\Desktop\Interface Lab2\Lab2\Lab2\obj\Debug\MainWindow.baml
+C:\Users\Bot\Desktop\Interface Lab2\Lab2\Lab2\obj\Debug\Lab2.g.resources
+C:\Users\Bot\Desktop\Interface Lab2\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\Bot\Desktop\Interface Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\Bot\Desktop\Interface Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Bot\Desktop\Interface Lab2\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\Bot\Desktop\Interface Lab2\Lab2\Lab2\obj\Debug\Lab2.pdb

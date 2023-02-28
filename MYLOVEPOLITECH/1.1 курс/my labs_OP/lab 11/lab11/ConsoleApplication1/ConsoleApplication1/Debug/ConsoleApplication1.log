@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Роман\OneDrive\Робочий стіл\lab 11\lab11\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(9,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Роман\OneDrive\Робочий стіл\lab 11\lab11\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(15,5): error C3861: printf: идентификатор не найден

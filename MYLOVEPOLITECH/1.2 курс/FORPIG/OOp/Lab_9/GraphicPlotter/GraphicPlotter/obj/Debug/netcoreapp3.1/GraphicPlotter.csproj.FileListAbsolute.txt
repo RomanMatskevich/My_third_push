@@ -1,0 +1,16 @@
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_9\GraphicPlotter\GraphicPlotter\bin\Debug\netcoreapp3.1\GraphicPlotter.exe
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_9\GraphicPlotter\GraphicPlotter\bin\Debug\netcoreapp3.1\GraphicPlotter.deps.json
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_9\GraphicPlotter\GraphicPlotter\bin\Debug\netcoreapp3.1\GraphicPlotter.runtimeconfig.json
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_9\GraphicPlotter\GraphicPlotter\bin\Debug\netcoreapp3.1\GraphicPlotter.runtimeconfig.dev.json
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_9\GraphicPlotter\GraphicPlotter\bin\Debug\netcoreapp3.1\GraphicPlotter.dll
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_9\GraphicPlotter\GraphicPlotter\bin\Debug\netcoreapp3.1\GraphicPlotter.pdb
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_9\GraphicPlotter\GraphicPlotter\obj\Debug\netcoreapp3.1\GraphicPlotter.Form1.resources
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_9\GraphicPlotter\GraphicPlotter\obj\Debug\netcoreapp3.1\GraphicPlotter.Properties.Resources.resources
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_9\GraphicPlotter\GraphicPlotter\obj\Debug\netcoreapp3.1\GraphicPlotter.csproj.GenerateResource.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_9\GraphicPlotter\GraphicPlotter\obj\Debug\netcoreapp3.1\GraphicPlotter.AssemblyInfoInputs.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_9\GraphicPlotter\GraphicPlotter\obj\Debug\netcoreapp3.1\GraphicPlotter.AssemblyInfo.cs
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_9\GraphicPlotter\GraphicPlotter\obj\Debug\netcoreapp3.1\GraphicPlotter.csproj.CoreCompileInputs.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_9\GraphicPlotter\GraphicPlotter\obj\Debug\netcoreapp3.1\GraphicPlotter.dll
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_9\GraphicPlotter\GraphicPlotter\obj\Debug\netcoreapp3.1\GraphicPlotter.pdb
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_9\GraphicPlotter\GraphicPlotter\obj\Debug\netcoreapp3.1\GraphicPlotter.genruntimeconfig.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_9\GraphicPlotter\GraphicPlotter\obj\Debug\netcoreapp3.1\GraphicPlotter.csprojAssemblyReference.cache

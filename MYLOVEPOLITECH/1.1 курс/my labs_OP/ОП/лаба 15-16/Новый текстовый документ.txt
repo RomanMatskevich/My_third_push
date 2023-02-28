@@ -1,0 +1,44 @@
+#include <iostream>
+#include <windows.h>
+int main()
+{
+	const int A = 10, B = 10;
+	int a[A][B],fl=0,zmin,n=10;
+	for (int i = 0; i < A; i++)
+	{
+		for (int j = 0; j < B; j++)
+		{
+			a[i][j] = 10 + rand() % (90);
+			printf("  %d", a[i][j]);
+		}
+		printf("\n\n");
+	}
+	for (int j = 0; j < B; j += 2)
+	{
+		do {
+			fl = 0;
+			for (int i = 0; i < A - 1; i++)
+			{
+
+				
+				if (a[i][j] > a[i + 1][j])
+				{
+					zmin = a[i][j];
+					a[i][j] = a[i + 1][j];
+					a[i + 1][j] = zmin;
+					fl = 1;
+				}
+
+			}
+		} while (fl);
+	}
+	printf("\n\n\n");
+	for (int i = 0; i < A; i++)
+	{
+		for (int j = 0; j < B; j++)
+		{
+			printf("  %d", a[i][j]);
+		}
+		printf("\n\n");
+	}
+}

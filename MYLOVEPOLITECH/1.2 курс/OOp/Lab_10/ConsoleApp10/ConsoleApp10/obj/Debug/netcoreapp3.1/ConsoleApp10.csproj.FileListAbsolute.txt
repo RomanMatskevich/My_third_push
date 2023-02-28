@@ -1,0 +1,16 @@
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_10\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.exe
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_10\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.deps.json
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_10\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.runtimeconfig.json
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_10\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.runtimeconfig.dev.json
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_10\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.dll
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_10\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.pdb
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_10\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_10\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_10\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.csprojAssemblyReference.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_10\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.AssemblyInfoInputs.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_10\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.AssemblyInfo.cs
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_10\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.csproj.CoreCompileInputs.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_10\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.csproj.CopyComplete
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_10\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.dll
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_10\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.pdb
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_10\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.genruntimeconfig.cache

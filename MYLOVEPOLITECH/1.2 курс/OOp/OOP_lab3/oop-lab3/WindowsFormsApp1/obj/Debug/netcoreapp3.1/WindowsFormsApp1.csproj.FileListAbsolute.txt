@@ -1,0 +1,15 @@
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_lab3\oop-lab3\WindowsFormsApp1\bin\Debug\netcoreapp3.1\WindowsFormsApp1.exe
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_lab3\oop-lab3\WindowsFormsApp1\bin\Debug\netcoreapp3.1\WindowsFormsApp1.deps.json
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_lab3\oop-lab3\WindowsFormsApp1\bin\Debug\netcoreapp3.1\WindowsFormsApp1.runtimeconfig.json
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_lab3\oop-lab3\WindowsFormsApp1\bin\Debug\netcoreapp3.1\WindowsFormsApp1.runtimeconfig.dev.json
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_lab3\oop-lab3\WindowsFormsApp1\bin\Debug\netcoreapp3.1\WindowsFormsApp1.dll
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_lab3\oop-lab3\WindowsFormsApp1\bin\Debug\netcoreapp3.1\WindowsFormsApp1.pdb
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_lab3\oop-lab3\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_lab3\oop-lab3\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.Form1.resources
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_lab3\oop-lab3\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_lab3\oop-lab3\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.AssemblyInfoInputs.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_lab3\oop-lab3\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.AssemblyInfo.cs
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_lab3\oop-lab3\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_lab3\oop-lab3\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.dll
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_lab3\oop-lab3\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.pdb
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_lab3\oop-lab3\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.genruntimeconfig.cache

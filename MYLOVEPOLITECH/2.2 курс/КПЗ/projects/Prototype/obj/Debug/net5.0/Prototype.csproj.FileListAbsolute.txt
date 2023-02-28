@@ -1,0 +1,31 @@
+C:\Users\unrav\source\repos\Patterns\Prototype\bin\Debug\net5.0\Prototype.exe
+C:\Users\unrav\source\repos\Patterns\Prototype\bin\Debug\net5.0\Prototype.deps.json
+C:\Users\unrav\source\repos\Patterns\Prototype\bin\Debug\net5.0\Prototype.runtimeconfig.json
+C:\Users\unrav\source\repos\Patterns\Prototype\bin\Debug\net5.0\Prototype.runtimeconfig.dev.json
+C:\Users\unrav\source\repos\Patterns\Prototype\bin\Debug\net5.0\Prototype.dll
+C:\Users\unrav\source\repos\Patterns\Prototype\bin\Debug\net5.0\ref\Prototype.dll
+C:\Users\unrav\source\repos\Patterns\Prototype\bin\Debug\net5.0\Prototype.pdb
+C:\Users\unrav\source\repos\Patterns\Prototype\obj\Debug\net5.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unrav\source\repos\Patterns\Prototype\obj\Debug\net5.0\Prototype.AssemblyInfoInputs.cache
+C:\Users\unrav\source\repos\Patterns\Prototype\obj\Debug\net5.0\Prototype.AssemblyInfo.cs
+C:\Users\unrav\source\repos\Patterns\Prototype\obj\Debug\net5.0\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\unrav\source\repos\Patterns\Prototype\obj\Debug\net5.0\Prototype.dll
+C:\Users\unrav\source\repos\Patterns\Prototype\obj\Debug\net5.0\ref\Prototype.dll
+C:\Users\unrav\source\repos\Patterns\Prototype\obj\Debug\net5.0\Prototype.pdb
+C:\Users\unrav\source\repos\Patterns\Prototype\obj\Debug\net5.0\Prototype.genruntimeconfig.cache
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Prototype\bin\Debug\net5.0\Prototype.exe
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Prototype\bin\Debug\net5.0\Prototype.deps.json
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Prototype\bin\Debug\net5.0\Prototype.runtimeconfig.json
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Prototype\bin\Debug\net5.0\Prototype.runtimeconfig.dev.json
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Prototype\bin\Debug\net5.0\Prototype.dll
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Prototype\bin\Debug\net5.0\ref\Prototype.dll
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Prototype\bin\Debug\net5.0\Prototype.pdb
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Prototype\obj\Debug\net5.0\Prototype.csproj.AssemblyReference.cache
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Prototype\obj\Debug\net5.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Prototype\obj\Debug\net5.0\Prototype.AssemblyInfoInputs.cache
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Prototype\obj\Debug\net5.0\Prototype.AssemblyInfo.cs
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Prototype\obj\Debug\net5.0\Prototype.csproj.CoreCompileInputs.cache
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Prototype\obj\Debug\net5.0\Prototype.dll
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Prototype\obj\Debug\net5.0\ref\Prototype.dll
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Prototype\obj\Debug\net5.0\Prototype.pdb
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Prototype\obj\Debug\net5.0\Prototype.genruntimeconfig.cache

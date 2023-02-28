@@ -1,0 +1,32 @@
+C:\Users\unrav\source\repos\Patterns\Adapter\bin\Debug\net5.0\Adapter.exe
+C:\Users\unrav\source\repos\Patterns\Adapter\bin\Debug\net5.0\Adapter.deps.json
+C:\Users\unrav\source\repos\Patterns\Adapter\bin\Debug\net5.0\Adapter.runtimeconfig.json
+C:\Users\unrav\source\repos\Patterns\Adapter\bin\Debug\net5.0\Adapter.runtimeconfig.dev.json
+C:\Users\unrav\source\repos\Patterns\Adapter\bin\Debug\net5.0\Adapter.dll
+C:\Users\unrav\source\repos\Patterns\Adapter\bin\Debug\net5.0\ref\Adapter.dll
+C:\Users\unrav\source\repos\Patterns\Adapter\bin\Debug\net5.0\Adapter.pdb
+C:\Users\unrav\source\repos\Patterns\Adapter\obj\Debug\net5.0\Adapter.csproj.AssemblyReference.cache
+C:\Users\unrav\source\repos\Patterns\Adapter\obj\Debug\net5.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unrav\source\repos\Patterns\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\unrav\source\repos\Patterns\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfo.cs
+C:\Users\unrav\source\repos\Patterns\Adapter\obj\Debug\net5.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\unrav\source\repos\Patterns\Adapter\obj\Debug\net5.0\Adapter.dll
+C:\Users\unrav\source\repos\Patterns\Adapter\obj\Debug\net5.0\ref\Adapter.dll
+C:\Users\unrav\source\repos\Patterns\Adapter\obj\Debug\net5.0\Adapter.pdb
+C:\Users\unrav\source\repos\Patterns\Adapter\obj\Debug\net5.0\Adapter.genruntimeconfig.cache
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Adapter\bin\Debug\net5.0\Adapter.exe
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Adapter\bin\Debug\net5.0\Adapter.deps.json
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Adapter\bin\Debug\net5.0\Adapter.runtimeconfig.json
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Adapter\bin\Debug\net5.0\Adapter.runtimeconfig.dev.json
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Adapter\bin\Debug\net5.0\Adapter.dll
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Adapter\bin\Debug\net5.0\ref\Adapter.dll
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Adapter\bin\Debug\net5.0\Adapter.pdb
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Adapter\obj\Debug\net5.0\Adapter.csproj.AssemblyReference.cache
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Adapter\obj\Debug\net5.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfoInputs.cache
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfo.cs
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Adapter\obj\Debug\net5.0\Adapter.csproj.CoreCompileInputs.cache
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Adapter\obj\Debug\net5.0\Adapter.dll
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Adapter\obj\Debug\net5.0\ref\Adapter.dll
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Adapter\obj\Debug\net5.0\Adapter.pdb
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\Adapter\obj\Debug\net5.0\Adapter.genruntimeconfig.cache

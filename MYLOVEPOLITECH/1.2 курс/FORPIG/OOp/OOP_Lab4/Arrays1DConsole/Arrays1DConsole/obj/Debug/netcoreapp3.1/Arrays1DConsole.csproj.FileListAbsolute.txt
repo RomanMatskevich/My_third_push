@@ -1,0 +1,13 @@
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays1DConsole\bin\Debug\netcoreapp3.1\Arrays1DConsole.exe
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays1DConsole\bin\Debug\netcoreapp3.1\Arrays1DConsole.deps.json
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays1DConsole\bin\Debug\netcoreapp3.1\Arrays1DConsole.runtimeconfig.json
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays1DConsole\bin\Debug\netcoreapp3.1\Arrays1DConsole.runtimeconfig.dev.json
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays1DConsole\bin\Debug\netcoreapp3.1\Arrays1DConsole.dll
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays1DConsole\bin\Debug\netcoreapp3.1\Arrays1DConsole.pdb
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays1DConsole\obj\Debug\netcoreapp3.1\Arrays1DConsole.csprojAssemblyReference.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays1DConsole\obj\Debug\netcoreapp3.1\Arrays1DConsole.AssemblyInfoInputs.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays1DConsole\obj\Debug\netcoreapp3.1\Arrays1DConsole.AssemblyInfo.cs
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays1DConsole\obj\Debug\netcoreapp3.1\Arrays1DConsole.csproj.CoreCompileInputs.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays1DConsole\obj\Debug\netcoreapp3.1\Arrays1DConsole.dll
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays1DConsole\obj\Debug\netcoreapp3.1\Arrays1DConsole.pdb
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays1DConsole\obj\Debug\netcoreapp3.1\Arrays1DConsole.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_8\ConsoleApp8.1\WindowsFormsApp8.1\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_8\ConsoleApp8.1\WindowsFormsApp8.1\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_8\ConsoleApp8.1\WindowsFormsApp8.1\ClassLibrary\obj\Debug\Interop.ADODB.dll
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_8\ConsoleApp8.1\WindowsFormsApp8.1\ClassLibrary\obj\Debug\ClassLibrary.csproj.ResolveComReference.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_8\ConsoleApp8.1\WindowsFormsApp8.1\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_8\ConsoleApp8.1\WindowsFormsApp8.1\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_8\ConsoleApp8.1\WindowsFormsApp8.1\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_8\ConsoleApp8.1\WindowsFormsApp8.1\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache

@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Роман\Desktop\лаба 15-16\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(12,6): error C2373: a: переопределение; различные модификаторы типа
+C:\Users\Роман\Desktop\лаба 15-16\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(11): message : см. объявление "a"
+C:\Users\Роман\Desktop\лаба 15-16\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(15,6): error C2109: для индекса требуется массив или указатель
+C:\Users\Роман\Desktop\лаба 15-16\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(16,20): error C2109: для индекса требуется массив или указатель
+C:\Users\Роман\Desktop\лаба 15-16\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(16,10): warning C4473: "printf": передано недостаточно аргументов для строки формата
+C:\Users\Роман\Desktop\лаба 15-16\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(16,10): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 0
+C:\Users\Роман\Desktop\лаба 15-16\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(16,10): message : отсутствующий вариативный аргумент "1" требуется для строки форматирования "%d"

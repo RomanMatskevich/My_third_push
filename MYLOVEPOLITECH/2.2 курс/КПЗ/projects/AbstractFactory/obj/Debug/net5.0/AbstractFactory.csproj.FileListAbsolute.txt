@@ -1,0 +1,48 @@
+C:\Users\unrav\source\repos\Patterns\AbstractFactory\bin\Debug\net5.0\AbstractFactory.exe
+C:\Users\unrav\source\repos\Patterns\AbstractFactory\bin\Debug\net5.0\AbstractFactory.deps.json
+C:\Users\unrav\source\repos\Patterns\AbstractFactory\bin\Debug\net5.0\AbstractFactory.runtimeconfig.json
+C:\Users\unrav\source\repos\Patterns\AbstractFactory\bin\Debug\net5.0\AbstractFactory.runtimeconfig.dev.json
+C:\Users\unrav\source\repos\Patterns\AbstractFactory\bin\Debug\net5.0\AbstractFactory.dll
+C:\Users\unrav\source\repos\Patterns\AbstractFactory\bin\Debug\net5.0\ref\AbstractFactory.dll
+C:\Users\unrav\source\repos\Patterns\AbstractFactory\bin\Debug\net5.0\AbstractFactory.pdb
+C:\Users\unrav\source\repos\Patterns\AbstractFactory\obj\Debug\net5.0\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\unrav\source\repos\Patterns\AbstractFactory\obj\Debug\net5.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unrav\source\repos\Patterns\AbstractFactory\obj\Debug\net5.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\unrav\source\repos\Patterns\AbstractFactory\obj\Debug\net5.0\AbstractFactory.AssemblyInfo.cs
+C:\Users\unrav\source\repos\Patterns\AbstractFactory\obj\Debug\net5.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\unrav\source\repos\Patterns\AbstractFactory\obj\Debug\net5.0\AbstractFactory.dll
+C:\Users\unrav\source\repos\Patterns\AbstractFactory\obj\Debug\net5.0\ref\AbstractFactory.dll
+C:\Users\unrav\source\repos\Patterns\AbstractFactory\obj\Debug\net5.0\AbstractFactory.pdb
+C:\Users\unrav\source\repos\Patterns\AbstractFactory\obj\Debug\net5.0\AbstractFactory.genruntimeconfig.cache
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\AbstractFactory\bin\Debug\net5.0\AbstractFactory.exe
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\AbstractFactory\bin\Debug\net5.0\AbstractFactory.deps.json
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\AbstractFactory\bin\Debug\net5.0\AbstractFactory.runtimeconfig.json
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\AbstractFactory\bin\Debug\net5.0\AbstractFactory.runtimeconfig.dev.json
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\AbstractFactory\bin\Debug\net5.0\AbstractFactory.dll
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\AbstractFactory\bin\Debug\net5.0\ref\AbstractFactory.dll
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\AbstractFactory\bin\Debug\net5.0\AbstractFactory.pdb
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\AbstractFactory\obj\Debug\net5.0\AbstractFactory.csproj.AssemblyReference.cache
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\AbstractFactory\obj\Debug\net5.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\AbstractFactory\obj\Debug\net5.0\AbstractFactory.AssemblyInfoInputs.cache
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\AbstractFactory\obj\Debug\net5.0\AbstractFactory.AssemblyInfo.cs
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\AbstractFactory\obj\Debug\net5.0\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\AbstractFactory\obj\Debug\net5.0\AbstractFactory.dll
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\AbstractFactory\obj\Debug\net5.0\ref\AbstractFactory.dll
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\AbstractFactory\obj\Debug\net5.0\AbstractFactory.pdb
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\AbstractFactory\obj\Debug\net5.0\AbstractFactory.genruntimeconfig.cache
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\AbstractFactory\bin\Debug\net5.0\AbstractFactory.exe
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\AbstractFactory\bin\Debug\net5.0\AbstractFactory.deps.json
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\AbstractFactory\bin\Debug\net5.0\AbstractFactory.runtimeconfig.json
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\AbstractFactory\bin\Debug\net5.0\AbstractFactory.runtimeconfig.dev.json
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\AbstractFactory\bin\Debug\net5.0\AbstractFactory.dll
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\AbstractFactory\bin\Debug\net5.0\ref\AbstractFactory.dll
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\AbstractFactory\bin\Debug\net5.0\AbstractFactory.pdb
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\AbstractFactory\obj\Debug\net5.0\AbstractFactory.csproj.AssemblyReference.cache
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\AbstractFactory\obj\Debug\net5.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\AbstractFactory\obj\Debug\net5.0\AbstractFactory.AssemblyInfoInputs.cache
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\AbstractFactory\obj\Debug\net5.0\AbstractFactory.AssemblyInfo.cs
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\AbstractFactory\obj\Debug\net5.0\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\AbstractFactory\obj\Debug\net5.0\AbstractFactory.dll
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\AbstractFactory\obj\Debug\net5.0\ref\AbstractFactory.dll
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\AbstractFactory\obj\Debug\net5.0\AbstractFactory.pdb
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\projects\AbstractFactory\obj\Debug\net5.0\AbstractFactory.genruntimeconfig.cache

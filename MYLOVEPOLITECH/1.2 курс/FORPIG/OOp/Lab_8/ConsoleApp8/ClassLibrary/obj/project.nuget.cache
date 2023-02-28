@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9QxeaBpFL2C6C9E5LkSBs5ByApB/Fhr6VIhpo4WjevGegC1M3DNfHOtgPwgYjvNYZbfMSR4LDHmv5y5qdTNWFw==",
+  "success": true,
+  "projectFilePath": "D:\\MYLOVEPOLITECH\\1.2 курс\\OOp\\Lab_8\\ConsoleApp8\\ClassLibrary\\ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Роман\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Роман\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_11\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.exe
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_11\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.deps.json
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_11\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.runtimeconfig.json
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_11\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.runtimeconfig.dev.json
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_11\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.dll
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_11\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.pdb
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_11\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.AssemblyInfoInputs.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_11\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.AssemblyInfo.cs
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_11\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.csproj.CoreCompileInputs.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_11\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.dll
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_11\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.pdb
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_11\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.genruntimeconfig.cache

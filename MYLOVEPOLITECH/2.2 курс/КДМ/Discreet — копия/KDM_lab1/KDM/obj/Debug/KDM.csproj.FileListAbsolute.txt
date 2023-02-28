@@ -1,0 +1,12 @@
+C:\Users\andre\Desktop\KDM\KDM\bin\Debug\KDM.exe.config
+C:\Users\andre\Desktop\KDM\KDM\bin\Debug\KDM.exe
+C:\Users\andre\Desktop\KDM\KDM\bin\Debug\KDM.pdb
+C:\Users\andre\Desktop\KDM\KDM\obj\Debug\KDM.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\KDM\KDM\obj\Debug\KDM.exe
+C:\Users\andre\Desktop\KDM\KDM\obj\Debug\KDM.pdb
+C:\Users\andre\Desktop\  \Discreet\KDM_lab1\KDM\obj\Debug\KDM.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\  \Discreet\KDM_lab1\KDM\obj\Debug\KDM.exe
+C:\Users\andre\Desktop\  \Discreet\KDM_lab1\KDM\obj\Debug\KDM.pdb
+C:\Users\andre\Desktop\  \Discreet\KDM_lab1\KDM\bin\Debug\KDM.exe.config
+C:\Users\andre\Desktop\  \Discreet\KDM_lab1\KDM\bin\Debug\KDM.exe
+C:\Users\andre\Desktop\  \Discreet\KDM_lab1\KDM\bin\Debug\KDM.pdb

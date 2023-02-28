@@ -1,0 +1,32 @@
+C:\Users\unrav\source\repos\Patterns\Composite\bin\Debug\net5.0\Composite.exe
+C:\Users\unrav\source\repos\Patterns\Composite\bin\Debug\net5.0\Composite.deps.json
+C:\Users\unrav\source\repos\Patterns\Composite\bin\Debug\net5.0\Composite.runtimeconfig.json
+C:\Users\unrav\source\repos\Patterns\Composite\bin\Debug\net5.0\Composite.runtimeconfig.dev.json
+C:\Users\unrav\source\repos\Patterns\Composite\bin\Debug\net5.0\Composite.dll
+C:\Users\unrav\source\repos\Patterns\Composite\bin\Debug\net5.0\ref\Composite.dll
+C:\Users\unrav\source\repos\Patterns\Composite\bin\Debug\net5.0\Composite.pdb
+C:\Users\unrav\source\repos\Patterns\Composite\obj\Debug\net5.0\Composite.csproj.AssemblyReference.cache
+C:\Users\unrav\source\repos\Patterns\Composite\obj\Debug\net5.0\Composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unrav\source\repos\Patterns\Composite\obj\Debug\net5.0\Composite.AssemblyInfoInputs.cache
+C:\Users\unrav\source\repos\Patterns\Composite\obj\Debug\net5.0\Composite.AssemblyInfo.cs
+C:\Users\unrav\source\repos\Patterns\Composite\obj\Debug\net5.0\Composite.csproj.CoreCompileInputs.cache
+C:\Users\unrav\source\repos\Patterns\Composite\obj\Debug\net5.0\Composite.dll
+C:\Users\unrav\source\repos\Patterns\Composite\obj\Debug\net5.0\ref\Composite.dll
+C:\Users\unrav\source\repos\Patterns\Composite\obj\Debug\net5.0\Composite.pdb
+C:\Users\unrav\source\repos\Patterns\Composite\obj\Debug\net5.0\Composite.genruntimeconfig.cache
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\Composite\bin\Debug\net5.0\Composite.exe
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\Composite\bin\Debug\net5.0\Composite.deps.json
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\Composite\bin\Debug\net5.0\Composite.runtimeconfig.json
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\Composite\bin\Debug\net5.0\Composite.runtimeconfig.dev.json
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\Composite\bin\Debug\net5.0\Composite.dll
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\Composite\bin\Debug\net5.0\ref\Composite.dll
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\Composite\bin\Debug\net5.0\Composite.pdb
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\Composite\obj\Debug\net5.0\Composite.csproj.AssemblyReference.cache
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\Composite\obj\Debug\net5.0\Composite.GeneratedMSBuildEditorConfig.editorconfig
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\Composite\obj\Debug\net5.0\Composite.AssemblyInfoInputs.cache
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\Composite\obj\Debug\net5.0\Composite.AssemblyInfo.cs
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\Composite\obj\Debug\net5.0\Composite.csproj.CoreCompileInputs.cache
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\Composite\obj\Debug\net5.0\Composite.dll
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\Composite\obj\Debug\net5.0\ref\Composite.dll
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\Composite\obj\Debug\net5.0\Composite.pdb
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\no my\Composite\obj\Debug\net5.0\Composite.genruntimeconfig.cache

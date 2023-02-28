@@ -1,0 +1,12 @@
+D:\Learn\labs oop\oop-lab12\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Learn\labs oop\oop-lab12\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Learn\labs oop\oop-lab12\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+D:\Learn\labs oop\oop-lab12\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Learn\labs oop\oop-lab12\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Learn\labs oop\oop-lab12\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_14\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_14\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_14\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_14\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_14\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_14\ClassLibrary\obj\Debug\ClassLibrary.pdb

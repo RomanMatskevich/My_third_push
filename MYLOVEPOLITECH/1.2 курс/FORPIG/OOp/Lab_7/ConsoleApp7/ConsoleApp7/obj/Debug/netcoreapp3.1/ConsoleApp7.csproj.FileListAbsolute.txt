@@ -1,0 +1,13 @@
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_7\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp3.1\ConsoleApp7.exe
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_7\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp3.1\ConsoleApp7.deps.json
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_7\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp3.1\ConsoleApp7.runtimeconfig.json
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_7\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp3.1\ConsoleApp7.runtimeconfig.dev.json
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_7\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp3.1\ConsoleApp7.dll
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_7\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp3.1\ConsoleApp7.pdb
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_7\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\ConsoleApp7.csprojAssemblyReference.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_7\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\ConsoleApp7.AssemblyInfoInputs.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_7\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\ConsoleApp7.AssemblyInfo.cs
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_7\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\ConsoleApp7.csproj.CoreCompileInputs.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_7\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\ConsoleApp7.dll
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_7\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\ConsoleApp7.pdb
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_7\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\ConsoleApp7.genruntimeconfig.cache

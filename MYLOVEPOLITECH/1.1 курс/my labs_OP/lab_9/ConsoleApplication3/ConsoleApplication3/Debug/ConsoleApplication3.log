@@ -1,0 +1,3 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\Роман\Desktop\lab_9\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(16,12): warning C4566: символ, представленный универсальным именем символа "\u221A", невозможно представить в текущей кодовой странице (1251)
+  ConsoleApplication3.vcxproj -> C:\Users\Роман\Desktop\lab_9\ConsoleApplication3\Debug\ConsoleApplication3.exe

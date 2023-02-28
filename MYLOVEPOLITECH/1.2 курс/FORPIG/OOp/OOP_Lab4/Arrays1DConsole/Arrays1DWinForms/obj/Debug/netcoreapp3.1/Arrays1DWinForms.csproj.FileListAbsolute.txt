@@ -1,0 +1,16 @@
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays1DWinForms\bin\Debug\netcoreapp3.1\Arrays1DWinForms.exe
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays1DWinForms\bin\Debug\netcoreapp3.1\Arrays1DWinForms.deps.json
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays1DWinForms\bin\Debug\netcoreapp3.1\Arrays1DWinForms.runtimeconfig.json
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays1DWinForms\bin\Debug\netcoreapp3.1\Arrays1DWinForms.runtimeconfig.dev.json
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays1DWinForms\bin\Debug\netcoreapp3.1\Arrays1DWinForms.dll
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays1DWinForms\bin\Debug\netcoreapp3.1\Arrays1DWinForms.pdb
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays1DWinForms\obj\Debug\netcoreapp3.1\Arrays1DWinForms.csprojAssemblyReference.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays1DWinForms\obj\Debug\netcoreapp3.1\Arrays1DWinForms.Form1.resources
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays1DWinForms\obj\Debug\netcoreapp3.1\Arrays1DWinForms.csproj.GenerateResource.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays1DWinForms\obj\Debug\netcoreapp3.1\Arrays1DWinForms.AssemblyInfoInputs.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays1DWinForms\obj\Debug\netcoreapp3.1\Arrays1DWinForms.AssemblyInfo.cs
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays1DWinForms\obj\Debug\netcoreapp3.1\Arrays1DWinForms.csproj.CoreCompileInputs.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays1DWinForms\obj\Debug\netcoreapp3.1\Arrays1DWinForms.dll
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays1DWinForms\obj\Debug\netcoreapp3.1\Arrays1DWinForms.pdb
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays1DWinForms\obj\Debug\netcoreapp3.1\Arrays1DWinForms.genruntimeconfig.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays1DWinForms\obj\Debug\netcoreapp3.1\Arrays1DWinForms.Properties.Resources.resources

@@ -1,0 +1,6 @@
+C:\Users\andre\Desktop\  \Discreet\KDM_lab3\KMD3\KMD3\obj\Debug\KMD3.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\  \Discreet\KDM_lab3\KMD3\KMD3\bin\Debug\KMD3.exe.config
+C:\Users\andre\Desktop\  \Discreet\KDM_lab3\KMD3\KMD3\bin\Debug\KMD3.exe
+C:\Users\andre\Desktop\  \Discreet\KDM_lab3\KMD3\KMD3\bin\Debug\KMD3.pdb
+C:\Users\andre\Desktop\  \Discreet\KDM_lab3\KMD3\KMD3\obj\Debug\KMD3.exe
+C:\Users\andre\Desktop\  \Discreet\KDM_lab3\KMD3\KMD3\obj\Debug\KMD3.pdb

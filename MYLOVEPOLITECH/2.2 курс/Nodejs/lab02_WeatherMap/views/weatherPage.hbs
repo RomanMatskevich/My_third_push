@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+{{> head}}
+{{> header}}
+<body>
+<section id="main" class="mt-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-6 col-md-4 col-lg-3">
+                <form method="get" action="/weather/">
+                    <button  id="btnCoords" class="btn btn-primary my-2 my-sm-0">Get weather by coords</button>
+                </form>
+                <div class="list-group">
+                    {{#each CITIES}}
+                    <a class="list-group-item list-group-item-action" href="/weather/{{this}}">{{this}}</a>
+                    {{/each}}
+                </div>
+            </div>
+            <div class="col-6 col-md-8 col-lg-9">
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title">Weather in {{cityName}}</h3>
+                        <img id = 'show_icon' src="{{icon}}" alt="">
+                        <table class="table table-striped">
+                            <tr>
+                                <th>Pressure</th>
+                                <td class = 'pressure'>{{pressure}}</td>
+                            </tr>
+                            <tr>
+                                <th>Humidity</th>
+                                <td class = 'humidity'>{{humidity}}</td>
+                            </tr>
+                            <tr>
+                                <th>Temperature</th>
+                                <td class = 'temperature'>{{temperature}}</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+</body>
+</html>

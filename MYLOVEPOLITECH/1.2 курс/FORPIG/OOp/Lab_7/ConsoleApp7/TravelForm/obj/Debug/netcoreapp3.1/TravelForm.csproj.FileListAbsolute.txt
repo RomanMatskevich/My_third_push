@@ -1,0 +1,15 @@
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_7\ConsoleApp7\TravelForm\bin\Debug\netcoreapp3.1\TravelForm.exe
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_7\ConsoleApp7\TravelForm\bin\Debug\netcoreapp3.1\TravelForm.deps.json
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_7\ConsoleApp7\TravelForm\bin\Debug\netcoreapp3.1\TravelForm.runtimeconfig.json
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_7\ConsoleApp7\TravelForm\bin\Debug\netcoreapp3.1\TravelForm.runtimeconfig.dev.json
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_7\ConsoleApp7\TravelForm\bin\Debug\netcoreapp3.1\TravelForm.dll
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_7\ConsoleApp7\TravelForm\bin\Debug\netcoreapp3.1\TravelForm.pdb
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_7\ConsoleApp7\TravelForm\obj\Debug\netcoreapp3.1\TravelForm.csprojAssemblyReference.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_7\ConsoleApp7\TravelForm\obj\Debug\netcoreapp3.1\TravelForm.Form1.resources
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_7\ConsoleApp7\TravelForm\obj\Debug\netcoreapp3.1\TravelForm.csproj.GenerateResource.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_7\ConsoleApp7\TravelForm\obj\Debug\netcoreapp3.1\TravelForm.AssemblyInfoInputs.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_7\ConsoleApp7\TravelForm\obj\Debug\netcoreapp3.1\TravelForm.AssemblyInfo.cs
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_7\ConsoleApp7\TravelForm\obj\Debug\netcoreapp3.1\TravelForm.csproj.CoreCompileInputs.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_7\ConsoleApp7\TravelForm\obj\Debug\netcoreapp3.1\TravelForm.dll
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_7\ConsoleApp7\TravelForm\obj\Debug\netcoreapp3.1\TravelForm.pdb
+D:\MYLOVEPOLITECH\1.2 курс\OOp\Lab_7\ConsoleApp7\TravelForm\obj\Debug\netcoreapp3.1\TravelForm.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\KPZ\KPZ\bin\Debug\netcoreapp3.1\KPZ.exe
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\KPZ\KPZ\bin\Debug\netcoreapp3.1\KPZ.deps.json
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\KPZ\KPZ\bin\Debug\netcoreapp3.1\KPZ.runtimeconfig.json
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\KPZ\KPZ\bin\Debug\netcoreapp3.1\KPZ.runtimeconfig.dev.json
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\KPZ\KPZ\bin\Debug\netcoreapp3.1\KPZ.dll
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\KPZ\KPZ\bin\Debug\netcoreapp3.1\KPZ.pdb
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\KPZ\KPZ\obj\Debug\netcoreapp3.1\KPZ.csproj.AssemblyReference.cache
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\KPZ\KPZ\obj\Debug\netcoreapp3.1\KPZ.GeneratedMSBuildEditorConfig.editorconfig
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\KPZ\KPZ\obj\Debug\netcoreapp3.1\KPZ.AssemblyInfoInputs.cache
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\KPZ\KPZ\obj\Debug\netcoreapp3.1\KPZ.AssemblyInfo.cs
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\KPZ\KPZ\obj\Debug\netcoreapp3.1\KPZ.csproj.CoreCompileInputs.cache
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\KPZ\KPZ\obj\Debug\netcoreapp3.1\KPZ.dll
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\KPZ\KPZ\obj\Debug\netcoreapp3.1\KPZ.pdb
+D:\MYLOVEPOLITECH\2.2 курс\КПЗ\KPZ\KPZ\obj\Debug\netcoreapp3.1\KPZ.genruntimeconfig.cache

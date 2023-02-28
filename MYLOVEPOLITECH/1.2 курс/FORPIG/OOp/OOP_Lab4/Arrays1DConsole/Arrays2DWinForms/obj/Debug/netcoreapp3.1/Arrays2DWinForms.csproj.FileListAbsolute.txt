@@ -1,0 +1,16 @@
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays2DWinForms\bin\Debug\netcoreapp3.1\Arrays2DWinForms.exe
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays2DWinForms\bin\Debug\netcoreapp3.1\Arrays2DWinForms.deps.json
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays2DWinForms\bin\Debug\netcoreapp3.1\Arrays2DWinForms.runtimeconfig.json
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays2DWinForms\bin\Debug\netcoreapp3.1\Arrays2DWinForms.runtimeconfig.dev.json
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays2DWinForms\bin\Debug\netcoreapp3.1\Arrays2DWinForms.dll
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays2DWinForms\bin\Debug\netcoreapp3.1\Arrays2DWinForms.pdb
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays2DWinForms\obj\Debug\netcoreapp3.1\Arrays2DWinForms.csprojAssemblyReference.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays2DWinForms\obj\Debug\netcoreapp3.1\Arrays2DWinForms.Form1.resources
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays2DWinForms\obj\Debug\netcoreapp3.1\Arrays2DWinForms.Properties.Resources.resources
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays2DWinForms\obj\Debug\netcoreapp3.1\Arrays2DWinForms.csproj.GenerateResource.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays2DWinForms\obj\Debug\netcoreapp3.1\Arrays2DWinForms.AssemblyInfoInputs.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays2DWinForms\obj\Debug\netcoreapp3.1\Arrays2DWinForms.AssemblyInfo.cs
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays2DWinForms\obj\Debug\netcoreapp3.1\Arrays2DWinForms.csproj.CoreCompileInputs.cache
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays2DWinForms\obj\Debug\netcoreapp3.1\Arrays2DWinForms.dll
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays2DWinForms\obj\Debug\netcoreapp3.1\Arrays2DWinForms.pdb
+D:\MYLOVEPOLITECH\1.2 курс\OOp\OOP_Lab4\Arrays1DConsole\Arrays2DWinForms\obj\Debug\netcoreapp3.1\Arrays2DWinForms.genruntimeconfig.cache
